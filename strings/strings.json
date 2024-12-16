@@ -2413,6 +2413,7 @@
   "tech_mad_desc": "Mutual Assured Destruction",
   "tech_mad_effect": "Create a network of nuclear-armed ICBMs to counter a similar threat by your enemies. Unlocks on the Military tab.",
   "tech_mad_effect_easter": "Create a network of ICBMs armed with Holy Hand Grenades to counter a similar threat by your enemies. Unlocks on the Military tab.",
+  "tech_mad_flair": "A strange game. The only winning move is not to play.",
   "tech_mad_info": "Nuclear launch missiles have been unlocked in the Civics -> Military tab.",
   "tech_mad_info_easter": "Holy Rocket Propelled Grenades have been unlocked in the Civics -> Military tab.",
   "tech_cement": "Cement",
