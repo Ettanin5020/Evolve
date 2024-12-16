@@ -7977,7 +7977,7 @@ const techs = {
             }
             return false;
         },
-        flair: loc(`tech_mad_flair`)
+        flair(){ return loc('tech_mad_flair');}
     },
     cement: {
         id: 'tech-cement',
